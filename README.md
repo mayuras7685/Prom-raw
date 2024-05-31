@@ -11,7 +11,7 @@
 
   <br>
 
-[How it works](https://github.com/mayuras7685/Prom-raw/edit/master/README.md#how-it-works) | [Prompts](https://github.com/mayuras7685/Prom-raw/edit/master/README.md#%EF%B8%8F-how-we-generate-prompts) | [zkSync](https://github.com/mayuras7685/Prom-raw/edit/master/README.md#-how-we-integrating-zksync)
+[How it works](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#how-it-works) | [Prompts](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#%EF%B8%8F-how-we-generate-prompts) | [zkSync](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#-how-we-integrating-zksync)
 </div>
 
 ## 👋 hello
