@@ -1,0 +1,6 @@
+streamlit 
+clip
+torch
+plotly
+numpy 
+pillow
