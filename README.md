@@ -10,7 +10,7 @@
 
 
 
-[How it works](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#how-it-works) | [Progress](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#how-it-works) | [IRL](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#-real-life-scenario-for-promraw) | [Prompts](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#%EF%B8%8F-how-we-generate-prompts) | [zkSync](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#-how-we-integrating-zksync)
+[How it works](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#how-it-works) | [Progress](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#-progress) | [IRL](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#-real-life-scenario-for-promraw) | [Prompts](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#%EF%B8%8F-how-we-generate-prompts) | [zkSync](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#-how-we-integrating-zksync)
 </div>
 
 ## 👋 hello
@@ -71,6 +71,11 @@ We didn't stop at just a few prompts; we used AI to generate thousands of creati
 InnovateTech, a leading technology company specializing in cutting-edge software solutions, is gearing up for a rebranding initiative to reflect its commitment to innovation and creativity. As part of this rebranding effort, the company decides to host a `logo redesign competition` on `Promraw` to harness the creative talents of `artists and designers` worldwide.
 
 <span><br></span>
+## 🔁 Why zkSync?
+
+zkSync is a Layer 2 scaling solution for Ethereum that uses zk-rollups to increase transaction throughput and reduce costs while maintaining the security and decentralization of Ethereum. It allows for fast and cheap transactions, which is essential for applications like Promraw that may involve numerous microtransactions for minting NFTs, rewarding users, and trading.
+
+<span><br></span>
 ## 🔁 How we integrating zkSync?
 
 - **Wallet and Account Management:** Create and manage zkSync wallets for users. Users will need to deposit ETH or ERC20 tokens from Ethereum to zkSync.
@@ -79,7 +84,16 @@ InnovateTech, a leading technology company specializing in cutting-edge software
 - **Withdraw Funds:** Allow users to withdraw funds from zkSync back to Ethereum.
 
 <span><br></span>
+## ⌛ Progress:
+- [x] [V0: Demonstrated prompt - image similarity using CLIP (Webcam stream)](https://github.com/mayuras7685/Prom-raw/tree/master/V0)
+- [ ] V1: Similarity matching with many images (Webapp)
+- [ ] V2: Paint webapp using React (Webapp)
+- [ ] V3: zkSync integration for `NFT minting` & `transactions`
+- [ ] Many more... 
 
+
+
+<span><br></span>
 
 > **P.S :** By investing in Promraw, you're not only supporting the development of a cutting-edge product but also tapping into the potential of a thriving community of artists, gamers, streamers and Content creators. Join us in shaping the future of digital creativity and gaming!
 
