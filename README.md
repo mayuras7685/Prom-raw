@@ -86,7 +86,7 @@ zkSync is a Layer 2 scaling solution for Ethereum that uses zk-rollups to increa
 <span><br></span>
 ## ⌛ Progress:
 - [x] [V0: Demonstrated prompt - image similarity using CLIP (Webcam stream)](https://github.com/mayuras7685/Prom-raw/tree/master/V0)
-- [ ] V1: Similarity matching with many images (Webapp)
+- [x] [V1: Similarity matching with many images (Webapp)](https://github.com/mayuras7685/Prom-raw/tree/master/V1)
 - [ ] V2: Paint webapp using React (Webapp)
 - [ ] V3: zkSync integration for `NFT minting` & `transactions`
 - [ ] Many more... 
