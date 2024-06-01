@@ -2,6 +2,8 @@
 
 Streamlit-based application that allows users to compute similarity scores between a text prompt and a set of uploaded images using the CLIP (Contrastive Language-Image Pretraining) model. The application provides a user-friendly interface for uploading images, entering a text prompt, and visualizing the similarity scores.
 
+![image](https://github.com/mayuras7685/Prom-raw/assets/88922616/16edbc5a-a84c-4b37-896e-fb3338d7f661)
+
 ## Features
 
 1. **Text Prompt Input**: Allows users to input a text prompt.
@@ -24,7 +26,7 @@ Streamlit-based application that allows users to compute similarity scores betwe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mayuras7685/prom-raw.git
+   git clone https://github.com/mayuras7685/Prom-raw.git
    cd V1
    ```
 
