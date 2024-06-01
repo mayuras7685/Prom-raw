@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <a align="center" href="" target="">
+    <a align="center" href="https://geno.my.canva.site/promraw" target="https://geno.my.canva.site/promraw">
       <img
         width="100%"
         src="https://github.com/mayuras7685/Prom-raw/blob/master/assets/Promdraw-v2.png"
