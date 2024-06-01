@@ -13,6 +13,11 @@ cd V0
 ```python
 pip install -r requirements.txt
 ```
+## Run python script:
+
+```python
+python app.py
+```
 
 ## Demo
 
