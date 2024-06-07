@@ -10,7 +10,7 @@
 
 
 
-[How it works](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#how-it-works) | [Progress](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#-progress) | [IRL](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#-real-life-scenario-for-promraw) | [Prompts](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#%EF%B8%8F-how-we-generate-prompts) | [zkSync](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#-why-multiversx-for-promraw)
+[How it works](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#how-it-works) | [Progress](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#-progress) | [IRL](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#-real-life-scenario-for-promraw) | [Prompts](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#%EF%B8%8F-how-we-generate-prompts) | [MultiversX](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#-why-multiversx-for-promraw)
 </div>
 
 ## 👋 hello
