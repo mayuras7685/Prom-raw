@@ -93,8 +93,7 @@ Promraw is committed to offering users a seamless and rewarding experience, and 
 ## ⌛ Progress:
 - [x] [V0: Demonstrated prompt - image similarity using CLIP (Webcam stream)](https://github.com/mayuras7685/Prom-raw/tree/master/V0)
 - [x] [V1: Similarity matching with many images (Webapp)](https://github.com/mayuras7685/Prom-raw/tree/master/V1)
-- [x] V2: Paint webapp using React (Webapp)
-- [x] V3: MultiversX integration for `NFT minting` & `transactions`
+- [x] V2: MultiversX integration for `NFT minting` & `transactions`
 - [ ] Many more... 
 
 
