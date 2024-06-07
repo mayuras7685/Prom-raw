@@ -10,7 +10,7 @@
 
 
 
-[How it works](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#how-it-works) | [Progress](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#-progress) | [IRL](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#-real-life-scenario-for-promraw) | [Prompts](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#%EF%B8%8F-how-we-generate-prompts) | [zkSync](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#-how-we-integrating-zksync)
+[How it works](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#how-it-works) | [Progress](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#-progress) | [IRL](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#-real-life-scenario-for-promraw) | [Prompts](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#%EF%B8%8F-how-we-generate-prompts) | [zkSync](https://github.com/mayuras7685/Prom-raw/tree/master?tab=readme-ov-file#-why-multiversx-for-promraw)
 </div>
 
 ## 👋 hello
@@ -71,24 +71,30 @@ We didn't stop at just a few prompts; we used AI to generate thousands of creati
 InnovateTech, a leading technology company specializing in cutting-edge software solutions, is gearing up for a rebranding initiative to reflect its commitment to innovation and creativity. As part of this rebranding effort, the company decides to host a `logo redesign competition` on `Promraw` to harness the creative talents of `artists and designers` worldwide.
 
 <span><br></span>
-## 🔁 Why zkSync?
+## 🔁 Why MultiversX for Promraw?
+Promraw is committed to offering users a seamless and rewarding experience, and integrating with the MultiversX ecosystem enhances this commitment further.
 
-zkSync is a Layer 2 scaling solution for Ethereum that uses zk-rollups to increase transaction throughput and reduce costs while maintaining the security and decentralization of Ethereum. It allows for fast and cheap transactions, which is essential for applications like Promraw that may involve numerous microtransactions for minting NFTs, rewarding users, and trading.
+- **Scalability and Speed:** Promraw thrives on user engagement, with thousands of drawings submitted daily. `MultiversX's` high-throughput blockchain platform ensures that transactions, including minting NFTs and rewarding users, are processed quickly and efficiently, even during peak usage periods.
 
-<span><br></span>
-## 🔁 How we integrating zkSync?
+- **Cost-Efficiency:** With `MultiversX`, Promraw can significantly reduce transaction costs associated with minting NFTs, rewarding users, and trading assets. This cost-effectiveness translates into more rewards for participants and a vibrant, sustainable ecosystem.
 
-- **Wallet and Account Management:** Create and manage zkSync wallets for users. Users will need to deposit ETH or ERC20 tokens from Ethereum to zkSync.
-- **Deposit Funds:** Allow users to deposit funds from Ethereum to zkSync.
-- **Minting NFTs:** NFT minting functionality using zkSync's contracts. zkSync supports ERC721 tokens, so you can deploy and interact with your NFT contracts similarly to Ethereum.
-- **Withdraw Funds:** Allow users to withdraw funds from zkSync back to Ethereum.
+- **Security and Reliability:** Security is paramount in the gaming and NFT space. `MultiversX's` Secure Proof of Stake (SPoS) consensus mechanism and Adaptive State Sharding provide a robust security framework, ensuring that user assets and transactions are protected against potential threats.
+
+## 🔁 How MultiversX Integrates with Promraw:
+- **Wallet and Account Management:** Seamlessly integrate MultiversX wallets into Promraw's platform, allowing users to create and manage their wallets directly within the application. This streamlined process simplifies user onboarding and enhances accessibility to the `MultiversX` ecosystem.
+
+- **Deposit Funds:** Enable users to deposit EGLD or other tokens from the `MultiversX` network directly into their Promraw wallets. By leveraging `MultiversX's` fast and low-cost transactions, users can quickly fund their accounts to participate in drawing challenges and NFT minting.
+
+- **Minting NFTs:** Utilize `MultiversX's` smart contracts to facilitate NFT minting within Promraw. Users can easily convert their submitted drawings into unique NFTs, representing digital assets that can be traded and monetized on the `MultiversX` marketplace.
+
+- **Withdraw Funds:** Empower users to withdraw their funds, including rewards earned from participating in Promraw challenges, back to their `MultiversX` wallets. `MultiversX's` interoperability ensures seamless asset transfer between Promraw and other platforms within the ecosystem.
 
 <span><br></span>
 ## ⌛ Progress:
 - [x] [V0: Demonstrated prompt - image similarity using CLIP (Webcam stream)](https://github.com/mayuras7685/Prom-raw/tree/master/V0)
 - [x] [V1: Similarity matching with many images (Webapp)](https://github.com/mayuras7685/Prom-raw/tree/master/V1)
-- [ ] V2: Paint webapp using React (Webapp)
-- [ ] V3: zkSync integration for `NFT minting` & `transactions`
+- [x] V2: Paint webapp using React (Webapp)
+- [x] V3: MultiversX integration for `NFT minting` & `transactions`
 - [ ] Many more... 
 
 
